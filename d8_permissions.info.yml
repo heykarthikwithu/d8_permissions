@@ -1,0 +1,5 @@
+name: D8 Permissions
+type: module
+description: Sample code for D8 permissions.
+package: Development
+core: 8.x

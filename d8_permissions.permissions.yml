@@ -1,0 +1,8 @@
+administer d8 permissions:
+  title: 'Administer D8 Permissions'
+  description: 'Administer the D8 permissions.'
+  restrict access: true
+
+access d8 permissions:
+  title: 'Access D8 permissions'
+  description: 'Access the D8 permissions.'
